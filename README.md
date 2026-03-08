@@ -58,9 +58,9 @@
 
 <div align="center">
 
-![Satyam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SatyamIT86&show_icons=true&theme=tokyonight&hide_border=true)
+![Satyam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SatyamIT86&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SatyamIT86&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SatyamIT86&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=SatyamIT86&theme=tokyonight&hide_border=true)
 
