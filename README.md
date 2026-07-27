@@ -212,21 +212,3 @@ Student & Trainer management app for a driving school, with real-time session tr
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:02569B,100:1565C0&height=120&section=footer" width="100%"/>
 
 </div>
-
-<details>
-<summary><b>⚙️ One-time setup: making the stats image reliable (click to expand)</b></summary>
-
-<br/>
-
-The old GitHub Stats section used live third-party servers that called the GitHub API on every profile view — that's why it kept showing "Failed to retrieve contributions." The fix: generate the image once via GitHub Actions and commit it to your repo, so it's just a static file after that.
-
-**Steps:**
-1. In your `SatyamIT86/SatyamIT86` repo, create the folder `.github/workflows/`
-2. Add `metrics.yml` and `snake.yml` (provided alongside this README) into that folder
-3. Commit and push
-4. Go to the **Actions** tab on GitHub → run both workflows once manually ("Run workflow" button) instead of waiting for the daily schedule
-5. Once they finish (usually under a minute), `github-metrics.svg` will appear in your repo root, and the snake SVGs will appear on a new `output` branch — the images in this README will then render automatically
-
-No further maintenance needed — both workflows re-run daily on their own.
-
-</details>
