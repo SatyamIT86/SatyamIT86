@@ -1,8 +1,10 @@
 <div align="center">
 
-# Hi there, I'm Satyam Pandey! 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1565C0,100:02569B&height=200&section=header&text=Satyam%20Pandey&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Flutter%20Developer%20%7C%20Building%20Products%20That%20Scale&descAlignY=55&descSize=18" width="100%"/>
 
-### Flutter Developer | GetX • BLoC • Dio | Production Cross-Platform Apps
+<a href="https://satyam-pandey-portfolio.vercel.app">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=1565C0&center=true&vCenter=true&width=600&lines=Flutter+%26+Dart+Developer;GetX+%E2%80%A2+BLoC%2FCubit+%E2%80%A2+Provider;Shipping+to+Play+Store+%26+App+Store;Building+GauBook+%40+Capritech" alt="Typing SVG" />
+</a>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://satyam-pandey-portfolio.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/-satyam-pandey)
@@ -11,11 +13,39 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=SatyamIT86&color=blueviolet&style=flat-square)
 
+<br/>
+
+![Google Play](https://img.shields.io/badge/Google_Play-Live-414141?style=for-the-badge&logo=googleplay&logoColor=01875f)
+![App Store](https://img.shields.io/badge/App_Store-Live-000000?style=for-the-badge&logo=appstore&logoColor=white)
+![Installs](https://img.shields.io/badge/Installs-12K%2B-1565C0?style=for-the-badge&logo=android&logoColor=white)
+![Crash Free](https://img.shields.io/badge/Crash--Free-99.4%25-02569B?style=for-the-badge&logo=firebase&logoColor=white)
+
 </div>
 
 ---
 
 ## 🧑‍💻 About Me
+
+```dart
+class Satyam extends Developer {
+  @override
+  final String role = 'Flutter Developer';
+  final String company = 'Capritech Global Services';
+
+  final List<String> stateManagement = ['GetX', 'BLoC/Cubit', 'Provider'];
+  final List<String> shippedTo = ['Google Play', 'App Store'];
+
+  final AppModel flagship = AppModel(
+    name: 'GauBook',
+    roles: 6,
+    installs: '12K+',
+    crashFree: '99.4%',
+  );
+
+  @override
+  String describe() => "I build production Flutter apps, not demos.";
+}
+```
 
 - 🔭 Currently a **Flutter Developer at Capritech Global Services (CTGS)**, building **GauBook** — a live cattle-management & social platform serving 6 user roles (12K+ installs, 99.4% crash-free sessions)
 - 🤝 Also contributing to **BpoJobs.ai** (BLoC/Cubit, Firebase FCM) and **SalonKart** (offline-first cart via Drift SQLite)
@@ -29,11 +59,15 @@
 
 ## 🛠️ Tech Stack
 
+<div align="center">
+
+[![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,mongodb,redis,docker,git,github,figma&theme=dark)](https://skillicons.dev)
+
+</div>
+
 **Mobile & Frontend**
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 **State Management**
 ![GetX](https://img.shields.io/badge/GetX-8A2BE2?style=flat-square&logo=flutter&logoColor=white)
@@ -70,19 +104,100 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=SatyamIT86&theme=tokyonight&hide_border=true)
 
+![Trophies](https://github-profile-trophy.vercel.app/?username=SatyamIT86&theme=tokyonight&no-frame=true&row=1&column=6)
+
+<br/>
+
+![Isometric Contribution Calendar](https://metrics.lecoq.io/SatyamIT86?template=classic&base=&plugin_isocalendar=true&plugin_isocalendar.duration=full&config.timezone=Asia%2FKolkata)
+
 </div>
+
+<!--
+  Contribution snake — add this workflow to your repo at
+  .github/workflows/snake.yml so it generates automatically:
+  https://github.com/Platane/snk#readme
+  Then uncomment the line below once github-contribution-grid-snake.svg exists.
+  ![snake gif](https://raw.githubusercontent.com/SatyamIT86/SatyamIT86/output/github-contribution-grid-snake-dark.svg)
+-->
 
 ---
 
 ## 🚀 Featured Projects
 
-**GauBook** — Live Flutter app (Android & iOS) with role-based flows for Volunteers, NGOs, Gaushalas, Experts, Donors, and Vendors; Dio + JWT sessions, Google Maps discovery, rich social feed with stories and cached media.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**BpoJobs.ai** — Referral network and earnings-tracking features built with BLoC/Cubit, Dio, and Firebase FCM.
+### 📱 GauBook
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![GetX](https://img.shields.io/badge/-GetX-8A2BE2?style=flat-square)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![iOS](https://img.shields.io/badge/-iOS-000000?style=flat-square&logo=apple&logoColor=white)
 
-**Face KYC – AI Identity Verification** — Multi-angle liveness detection with anti-spoofing (texture analysis, pose consistency), encrypted biometric storage, JWT-based RBAC admin workflows.
+Live cattle-management & social platform with 6 role-based flows (Volunteers, NGOs, Gaushalas, Experts, Donors, Vendors). Dio + JWT sessions, Google Maps discovery, rich social feed with stories, cached media & shimmer loading.
 
-**Docker Alert System** — Sub-800ms alert delivery across 40+ monitored containers.
+**12K+ installs · 99.4% crash-free**
+
+</td>
+<td width="50%" valign="top">
+
+### 💼 BpoJobs.ai
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![BLoC](https://img.shields.io/badge/-BLoC/Cubit-02569B?style=flat-square)
+![Firebase FCM](https://img.shields.io/badge/-Firebase%20FCM-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+Scalable BPO recruitment network with referral tracking and earnings dashboards, built on BLoC/Cubit + Dio + Firebase FCM push notifications.
+
+**Cold-start optimized 3.1s → 1.4s**
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🛍️ SalonKart B2B
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![SQLite](https://img.shields.io/badge/-Drift%20SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+
+B2B e-commerce platform with offline-first cart handling, syncing orders via Drift SQLite when connectivity returns.
+
+</td>
+<td width="50%" valign="top">
+
+### 🪪 Face KYC – AI Verification
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+Multi-angle liveness detection with anti-spoofing (texture analysis, pose consistency), encrypted biometric storage, JWT-based RBAC admin workflows.
+
+**97% accuracy · <2s verification**
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🚨 Docker Alert System
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+Real-time container health monitoring with delta-based CPU calculations, cutting false alerts by ~35%.
+
+**Sub-800ms alerts · 40+ containers**
+
+</td>
+<td width="50%" valign="top">
+
+### 🚗 Apna Drive Guru
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![GetX](https://img.shields.io/badge/-GetX-8A2BE2?style=flat-square)
+
+Student & Trainer management app for a driving school, with real-time session tracking built on GetX MVVM.
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -108,5 +223,7 @@
 ### 💬 *"I don't just build features — I build products that hold up in the real world."*
 
 ⭐ **If you find my projects useful, consider giving them a star!**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:02569B,100:1565C0&height=120&section=footer" width="100%"/>
 
 </div>
